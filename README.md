@@ -36,4 +36,4 @@ Engenheiro de Software (UCB, 2026). Hoje desenvolvo e mantenho as automações d
 
 ---
 
-<sub>A maior parte do meu trabalho profissional fica em repositórios privados. Os projetos acima trazem a arquitetura e os resultados sem expor código ou dados do cliente.</sub>
+<sub>A maior parte do meu trabalho profissional fica em repositórios privados. Os projetos acima trazem a arquitetura e os resultados sem expor código do escritório ou dados de clientes.</sub>
